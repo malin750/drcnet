@@ -1,0 +1,3 @@
+该工具jar包的开发目的在于方便用户调用国研数据开放平台的API接口；
+该工具包提供SignUtil工具类，封装数字签名及验签的方法，分别是createSign方法和signVerify方法；
+该工具包提供APIUtil工具类，封装callAPI方法用于API调用。
